@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+canvas {
+    background-color: #000; /* Black game canvas */
+    border: 1px solid #000;
+}
+
+.navbar {
+    margin-bottom: 20px; /* Space below navbar */
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.list-group-item {
+    background-color: #fff; /* White background for list items */
+}
